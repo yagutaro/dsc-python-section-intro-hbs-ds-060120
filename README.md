@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in section 02 and why they'll be important to you as a Data Scientist.
+This lesson summarizes the topics we'll be covering in this section, and why they'll be important to you as a Data Scientist.
 
 ## Objectives
 You will be able to:
@@ -11,7 +11,7 @@ You will be able to:
 
 ## Coding in Python 
 
-We're going to spend most of this section deepening and widening your experience of programming in Python. We're going to introduce some of Pythons built in functions and methods, show you some more types of loops, and give you some practice of creating and using custom functions so you can efficiently reuse your code.
+We're going to spend most of this section deepening and widening your experience of programming in Python. We're going to introduce some of Python's built-in functions and methods, show you some more types of loops, and give you some practice of creating and using custom functions so you can efficiently reuse your code.
 
 ## Basic Statistics
 
