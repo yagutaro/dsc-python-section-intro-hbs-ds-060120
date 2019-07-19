@@ -2,12 +2,14 @@
 # Introduction
 
 ## Introduction
-This lesson summarizes the topics we'll be covering in this section, and why they'll be important to you as a Data Scientist.
+In this section, you'll learn learn about creating functions in python, iterating over nested loops, and using basic statistics to measure aspects of different datasets. You'll wrap up the section by building a calculator using python.
 
 ## Objectives
 You will be able to:
-* Understand and explain what is covered in this section
-* Understand and explain why the section will help you to become a data scientist
+* Use built-in python methods
+* Declare and use functions with and without arguments
+* Use basic statistics to evaluate a data set
+
 
 ## Coding in Python 
 
@@ -19,10 +21,10 @@ We're then going to take a break from coding by introducing some statistics - me
 
 ## Project Time!
 
-Finally, we'll give you a project that will allow you to continue builing your confidence as a coder. We'll start by giving you just enough information on accepting user input and providing output in Python and will then ask you to build a simple calculator.
+Finally, we'll give you a project that will allow you to continue building your confidence as a coder. We'll start by giving you just enough information on accepting user input and providing output in Python and will then ask you to build a simple calculator.
 
 ## Summary
 
-This is another section where students will have very different experiences. If you're already a professional software developer with a degree in a quantative subject, it's not going to be the hardest section for you to complete. But please take the time to practice your skills and feel free to dig deeper with the optional "Level Up" content if you're done more quickly than your peers.
+This is another section where students will have very different experiences. If you're already a professional software developer with a degree in a quantitative subject, it's not going to be the hardest section for you to complete. But please take the time to practice your skills and feel free to dig deeper with the optional "Level Up" content if you're done more quickly than your peers.
 
 If you're completely new to coding and/or stats, you will probably find this a fairly challenging section. We're continuing to introduce core programming concepts at quite a pace. Don't worry if you still feel overwhelmed as you work through this section or work on the projects. You're going to get to practice most of these skills on a daily or weekly basis for the rest of the course, so just keep on keeping on - you can do this!
