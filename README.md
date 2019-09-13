@@ -1,8 +1,6 @@
 
 # Introduction
-
-## Introduction
-In this section, you'll learn learn about creating functions in python, iterating over nested loops, and using basic statistics to measure aspects of different datasets. You'll wrap up the section by building a calculator using python.
+In this section, you'll learn about creating functions in python, iterating over nested loops, and using basic statistics to measure aspects of different datasets. You'll wrap up the section by building a calculator using python.
 
 ## Objectives
 You will be able to:
