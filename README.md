@@ -1,12 +1,12 @@
 
 # Introduction
-In this section, you'll learn about creating functions in python, iterating over nested loops, and using basic statistics to measure aspects of different datasets. You'll wrap up the section by building a calculator using python.
+In this section, you'll learn about creating functions in Python, iterating over nested loops, and using basic statistics to measure aspects of different datasets. You'll wrap up the section by building a calculator using Python.
 
 ## Objectives
 You will be able to:
-* Use built-in python methods
+* Use built-in Python methods
 * Declare and use functions with and without arguments
-* Use basic statistics to evaluate a data set
+* Use basic statistics to evaluate a dataset
 
 
 ## Coding in Python 
@@ -15,7 +15,7 @@ We're going to spend most of this section deepening and widening your experience
 
 ## Basic Statistics
 
-We're then going to take a break from coding by introducing some statistics - measures of centrality and dispersion - that will be crucial in understanding the data sets that you work with as a professional data scientist. We'll also get some more practice plotting graphs using Matplotlib and some coding practice by calculating statistics for some data sets we'll provide.
+We're then going to take a break from coding by introducing some statistics - measures of centrality and dispersion - that will be crucial in understanding the datasets that you work with as a professional Data Scientist. We'll also get some more practice plotting graphs using Matplotlib and some coding practice by calculating statistics for some datasets we'll provide.
 
 ## Project Time!
 
