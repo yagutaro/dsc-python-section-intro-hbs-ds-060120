@@ -1,12 +1,6 @@
 
-# Introduction
-In this section, you'll learn about creating functions in Python, iterating over nested loops, and using basic statistics to measure aspects of different datasets. You'll wrap up the section by building a calculator using Python.
-
-## Objectives
-You will be able to:
-* Use built-in Python methods
-* Declare and use functions with and without arguments
-* Use basic statistics to evaluate a dataset
+# Control flow, Functions, and Statistics - Introduction
+In this section, you'll learn about creating functions in Python, iterating over nested loops, and using basic statistics to measure aspects of different datasets. 
 
 
 ## Coding in Python 
@@ -15,14 +9,11 @@ We're going to spend most of this section deepening and widening your experience
 
 ## Basic Statistics
 
-We're then going to take a break from coding by introducing some statistics - measures of centrality and dispersion - that will be crucial in understanding the datasets that you work with as a professional Data Scientist. We'll also get some more practice plotting graphs using Matplotlib and some coding practice by calculating statistics for some datasets we'll provide.
+We're then going to take a break from coding by introducing some basic statistics - measures of centrality and dispersion - that will be crucial in understanding the datasets that you work with as a professional Data Scientist. We'll also get some more practice writing custom functions for calculating these statistics. 
 
-## Project Time!
-
-Finally, we'll give you a project that will allow you to continue building your confidence as a coder. We'll start by giving you just enough information on accepting user input and providing output in Python and will then ask you to build a simple calculator.
 
 ## Summary
 
-This is another section where students will have very different experiences. If you're already a professional software developer with a degree in a quantitative subject, it's not going to be the hardest section for you to complete. But please take the time to practice your skills and feel free to dig deeper with the optional "Level Up" content if you're done more quickly than your peers.
+If you're already a professional software developer with a degree in a quantitative subject, it's not going to be the hardest section for you to complete. But please take the time to practice your skills and feel free to dig deeper with the optional "Level Up" content if you're done more quickly than your peers.
 
-If you're completely new to coding and/or stats, you will probably find this a fairly challenging section. We're continuing to introduce core programming concepts at quite a pace. Don't worry if you still feel overwhelmed as you work through this section or work on the projects. You're going to get to practice most of these skills on a daily or weekly basis for the rest of the course, so just keep on keeping on - you can do this!
+If you're completely new to coding and/or stats, you will probably find this a fairly challenging section. We're continuing to introduce core programming concepts at quite a pace. Don't worry if you still feel overwhelmed as you work through this section or work on the projects. You're going to get to practice most of these skills on a daily or weekly basis for the rest of the course!
